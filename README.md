@@ -1,3 +1,7 @@
+
+![Foto de Perfil](https://github.com/user-attachments/assets/febec3fe-88ae-4689-bd5d-ccae0e014fd5)
+
+
 - 👋 Hi, I’m @sergiocb1993  
 - 👀 I’m passionate about MLOps and Software Engineering Development.  
 - 🌱 Currently, I’m working as a DevOps Engineer in Uruguay and constantly expanding my knowledge in cloud computing, automation, and scalable system design.  
